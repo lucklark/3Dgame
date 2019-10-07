@@ -6,3 +6,4 @@ hw2视频如下：
 https://v.youku.com/v_show/id_XNDM3MDA1NzkyOA==.html?spm=a2h3j.8428770.3416059.1
 
 homework3视频如下：
+https://v.youku.com/v_show/id_XNDM4ODkwMTY5Ng==.html?spm=a2hzp.8253869.0.0
