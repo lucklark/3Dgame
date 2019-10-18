@@ -26,3 +26,5 @@ public class ActionManagerAdapter : MonoBehaviour, IActionManager {
 }
 ```
 IActionManager接口为对应输入的运行飞碟及其状态以及是否采用物理机制或者通过运动轨迹规定。其适配器类有两种对应的实现方法。
+
+视频见主目录下readme
