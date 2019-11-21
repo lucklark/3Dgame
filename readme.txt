@@ -19,3 +19,5 @@ https://v.youku.com/v_show/id_XNDQyMjIyOTIwNA==.html?spm=a2h3j.8428770.3416059.1
 
 homework7视频如下：
 https://v.youku.com/v_show/id_XNDQzMDkxMTIxMg==.html?spm=a2h3j.8428770.3416059.1
+
+homework8视频如下：
