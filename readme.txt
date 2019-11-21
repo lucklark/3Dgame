@@ -21,3 +21,4 @@ homework7视频如下：
 https://v.youku.com/v_show/id_XNDQzMDkxMTIxMg==.html?spm=a2h3j.8428770.3416059.1
 
 homework8视频如下：
+https://v.youku.com/v_show/id_XNDQ0MzIzODMxNg==.html?spm=a2hzp.8244740.0.0
